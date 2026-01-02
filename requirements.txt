@@ -1,0 +1,9 @@
+transformers
+torch
+scipy
+goose3
+python-decouple
+numpy
+flask
+hf_xet
+gunicorn
