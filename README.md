@@ -1,8 +1,4 @@
-Got it. I’ll **rewrite this README in *your* voice**, simpler, cleaner, interview-ready, and honest about learning scope — not copied, not flashy, but **credible**.
 
-Below is a **refined README you can directly use** (or slightly tweak with your name/GitHub).
-
----
 
 # Sentiment Analysis Web Application (Flask)
 
